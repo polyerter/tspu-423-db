@@ -1,0 +1,10 @@
+1. Таблица Employees. Получить список department_id в котором работают больше 30 сотрудников
+
+База данных
+https://github.com/fracpete/employees-db-sqlite
+
+Структура БД
+https://dev.mysql.com/doc/employee/en/sakila-structure.html
+
+Просмотр онлайн БД
+https://sqliteonline.com/
